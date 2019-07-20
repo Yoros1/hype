@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="img">
+    <file>administrator.png</file>
+    <file>calendar.png</file>
+    <file>laptop.png</file>
+    <file>store.png</file>
+    <file>trucking.png</file>
+    <file>clipboard.png</file>
+    <file>ddsdws.png</file>
+    <file>IN.png</file>
+    <file>IoTown.jpg</file>
+    <file>network.png</file>
+    <file>office-material.png</file>
+    <file>OUT1.png</file>
+    <file>racing.png</file>
+    <file>report.png</file>
+    <file>Resource.qrc</file>
+    <file>setting.png</file>
+    <file>Support.png</file>
+    <file>Untitled.png</file>
+    <file>wallet.png</file>
+    <file>Sale.png</file>
+    <file>background.png</file>
+    <file>profile.png</file>
+    <file>Support.png</file>
+  </qresource>
+</RCC>
